@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ray <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+<h3 align="center">A Data Enthusiast from Brazil</h3>
 
 - 🔭 I’m currently working with **Python/Pyspark*
 
