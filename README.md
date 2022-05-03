@@ -41,6 +41,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylacerda&theme=react&layout=compact" />
 </p>
 
+![Snake animation](https://github.com/raylacerda/raylacerda/blob/output/github-contribution-grid-snake.svg)
+
 ------
 
 [Raylacerda](https://github.com/raylacerda)
