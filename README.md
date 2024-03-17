@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ray <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Ray </h1>
 <h3 align="center">A Data Enthusiast from Brazil</h3>
 
 - 🔭 I’m currently working with as **Specialist Data Platform Engineer**
