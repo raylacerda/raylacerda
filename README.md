@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ray <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A Data Enthusiast from Brazil</h3>
 
-- 🔭 I’m currently working with **Python/Pyspark*
-
-- 🌱 I’m currently learning **Airflow, Datastream & GCP**
+- 🔭 I’m currently working with as **Specialist Data Platform Engineer**
 
 - 📫 How to reach me: **ray.lacerda@live.com**
 
-- ⚡ What I like to do: **I like so much reading, videogames and surf.**
+- ⚡ What I like to do: **I like so much reading, study and play Call Of Duty.**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
